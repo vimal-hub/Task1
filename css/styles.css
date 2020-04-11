@@ -1,0 +1,90 @@
+body {
+  background-color: #f6f5f5;
+}
+
+.gorden-heading {
+  display: inline-block;
+}
+
+.buttons{
+display: inline-block;
+position: relative;
+left: 76%;
+}
+
+a {
+  text-decoration: none;
+  margin: 10px 5px;
+}
+
+.main-heading{
+  position: absolute;
+  top: 625px;
+  padding-left: 20px;
+}
+
+.burger {
+  margin: auto 100px auto 100px;
+}
+
+.dish1 {
+  height: 500px;
+  margin: 50px 30px 0 140px;
+  float: left;
+}
+
+.dish2 {
+  height: 500px;
+  float: right;
+  margin: 140px 100px 0 30px;
+}
+
+.about-catering {
+  display: inline-block;
+  margin-top: 70px;
+  margin-left: 200px;
+}
+
+.tradition {
+  margin-left: 780px;
+}
+
+.about {
+  display: inline-block;
+}
+
+.second-part {
+  display: inline-block;
+}
+
+.third-part {
+  margin-top: 100px;
+  margin-left: 120px;
+}
+
+.footer {
+  background-color: #e3e3e3;
+  height: 100px;
+  text-align: center;
+  margin-top: 50px;
+}
+
+input, textarea {
+  border: none;
+  border-bottom: 2px solid #d3d3d3;
+  background-color: #f6f5f5;
+  width: 1000px;
+  padding-bottom: 10px;
+}
+
+.submit {
+  width:130px;
+  height: 22px;
+  border: none;
+  background-color: #e3e3e3;
+}
+
+.menu-content {
+  display: inline-block;
+  margin: 120px auto auto 120px;
+}
